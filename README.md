@@ -9,6 +9,8 @@ ___
  - [Глава 4. Переменные, типы данных и арифметические выражения](#chapter4)
  - [Глава 5. Программные циклы](#chapter5)
 
+ - [Глава 6. Принятие решений](#chapter5)
+
  &nbsp;
 ____
 
@@ -96,4 +98,38 @@ ____
 ||[prog9.4](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises5/prog9.4.c)|Замена цикла `for` на цикл `while` в листинге [prog4](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter5/prog4.c)|
 ||[prog9.5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises5/prog9.5.c)|Замена цикла `for` на цикл `while` в листинге [prog5](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter5/prog5.c)|
 |Упражнение 11|[prog11](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises5/prog11.c)|Программа, выводящая сумму цифр введенного числа|
+
+&nbsp;
+
+____
+
+&nbsp;
+### <a name="chapter6">Глава 6. Принятие решений</a>
+#### Листинг примеров
+|Название класса|Описание|
+|-----------|-------------|
+|[prog1](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog1.c)|Расчет абсолютного значения целого числа|
+|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog2.c)|Расчет среднего значения и количества ошибочных данных|
+|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog3.c)|Определение четности числа|
+|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog4.c)|Улучшенная программа определения четности числа|
+|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog5.c)|Определение високосного года|
+|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog6.c)|Реализация знаковой функции|
+|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog7.c)|Классификация введенного с терминала символа|
+|[prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog8.c)|Расчет простого выражения|
+|[prog8a](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog8a.c)|Улучшенная программа расчета простого выражения|
+|[prog9](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog9.c)|Улучшенная программа расчета простого выражения, вариант 2|
+|[prog10](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog10.c)|Составление таблицы простых чисел|
+|[prog10a](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog10a.c)|Улучшенная программа составления таблицы простых чисел|
+
+&nbsp;
+#### Листинг упражнений
+|Номер упражнения|Название класса|Описание|
+|-----------|-------------|-------------|
+|Упражнение 2|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog2.c)|Программа определяет, делится ли одно число на другое без остатка|
+|Упражнение 3|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog3.c)|Программа делит одно число на другое с точностью до 3-х знаков|
+|Упражнение 4|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog4.c)|Простейший калькулятор|
+|Упражнение 5|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog5.c)|Улучшение [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter5/prog8.c) для работы с отрицательными числами|
+|Упражнение 6|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog6.c)|Программа выводит словами каждую цифру из введенного числа|
+|Упражнение 7|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog7.c)|Оптимизация программы [prog10a](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog10a.c)|
+
 &nbsp;
