@@ -8,8 +8,8 @@ ___
  - [Глава 3. Компиляция и запуск первой программы](#chapter3)
  - [Глава 4. Переменные, типы данных и арифметические выражения](#chapter4)
  - [Глава 5. Программные циклы](#chapter5)
-
- - [Глава 6. Принятие решений](#chapter5)
+ - [Глава 6. Принятие решений](#chapter6)
+ - [Глава 7. Массивы](#chapter7)
 
  &nbsp;
 ____
@@ -131,5 +131,34 @@ ____
 |Упражнение 5|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog5.c)|Улучшение [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter5/prog8.c) для работы с отрицательными числами|
 |Упражнение 6|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog6.c)|Программа выводит словами каждую цифру из введенного числа|
 |Упражнение 7|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises6/prog7.c)|Оптимизация программы [prog10a](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter6/prog10a.c)|
+
+&nbsp;
+
+____
+
+&nbsp;
+### <a name="chapter7">Глава 7. Массивы</a>
+#### Листинг примеров
+|Название класса|Описание|
+|-----------|-------------|
+|[prog1](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog1.c)|Работа с массивами|
+|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog2.c)|Демонстрация использования массива счетчиков|
+|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog3.c)|Генерация чисел Фибоначчи|
+|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog4.c)|Улучшенная программа генерации простых чисел, версия 2|
+|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog5.c)|Инициализация массивов|
+|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog6.c)|Введение в символьные массивы|
+|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog7.c)|Преобразование целого числа из одной системы счисления в другую|
+|[prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog8.c)|Генерация чисел Фибоначчи с помощью массивов с переменным размером|
+
+&nbsp;
+#### Листинг упражнений
+|Номер упражнения|Название класса|Описание|
+|-----------|-------------|-------------|
+|Упражнение 2|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog2.c)|Модификация [prog1](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog1.c) на автозаполнение массива|
+|Упражнение 3|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog3.c)|Модификация [prog2](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog2.c) на неограниченный ввод данных|
+|Упражнение 4|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog4.c)|Расчет среднего значения для массива вещественных чисел|
+|Упражнение 5|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog5.c)|Вывод данного кода|
+|Упражнение 6|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog6.c)|Модификация [prog3](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog3.c) для нахождения чисел Фибоначчи без использования массивов|
+|Упражнение 7|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog7.c)|Реализация алгоритма "Решето Эратосфена"|
 
 &nbsp;
