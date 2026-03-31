@@ -10,6 +10,7 @@ ___
  - [Глава 5. Программные циклы](#chapter5)
  - [Глава 6. Принятие решений](#chapter6)
  - [Глава 7. Массивы](#chapter7)
+ - [Глава 8. Функции](#chapter8)
 
  &nbsp;
 ____
@@ -160,5 +161,55 @@ ____
 |Упражнение 5|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog5.c)|Вывод данного кода|
 |Упражнение 6|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog6.c)|Модификация [prog3](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter7/prog3.c) для нахождения чисел Фибоначчи без использования массивов|
 |Упражнение 7|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises7/prog7.c)|Реализация алгоритма "Решето Эратосфена"|
+
+&nbsp;
+
+____
+
+&nbsp;
+### <a name="chapter8">Глава 8. Функции</a>
+#### Листинг примеров
+|Название класса|Описание|
+|-----------|-------------|
+|[prog1](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog1.c)|Создание программы на языке программирования C|
+|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog2.c)|Вызовы функций|
+|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog3.c)|Дополнительные примеры вызова функций|
+|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog4.c)|Расчет треугольного числа|
+|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog5.c)|Новая версия программы определения наибольшего общего делителя|
+|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog6.c)|Определение наибольшего общего делителя и возврат результата|
+|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog7.c)|Расчет абсолютного значения|
+|[prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog8.c)|Вычисление квадратного корня числа|
+|[prog9](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog9.c)|Определение минимального значения в массиве|
+|[prog10](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog10.c)|Улучшение функции для вычисления минимального значения в массиве|
+|[prog11](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog11.c)|Изменение значений элементов массива|
+|[prog12](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog12.c)|Сортировка массива целых чисел в возрастающем порядке|
+|[prog13](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog13.c)|Использование многомерных массивов и функций|
+|[prog13а](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog13a.c)|Многомерный массив переменной длины|
+|[prog14](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog14.c)|Преобразование числа в другую систему счисления|
+|[prog15](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog15.c)|Демонстрация применения статических и автоматических переменных|
+|[prog16](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog16.c)|Рекурсивный расчет факториала|
+
+&nbsp;
+#### Листинг упражнений
+|Номер упражнения|Название класса|Описание|
+|-----------|-------------|-------------|
+|Упражнение 2|[prog2](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog2.c)|Модификация [prog4](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog4.c), чтобы функция возвращала значение|
+|Упражнение 3|[prog3](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog3.c)|Модификация [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog8.c), чтобы значение epsilon передавалось аргументом|
+|Упражнение 4|[prog4](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog4.c)|Модификация [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog8.c), чтобы в консоль выводилось значение guess при каждой итерации|
+|Упражнение 5|[prog5](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog5.c)|Модификация [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog8.c), чтобы добавить дополнительную проверку|
+|Упражнение 6|[prog6](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog6.c)|Модификация [prog8](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog8.c), чтобы функция принимала и возвращала значения двойной точности|
+|Упражнение 7|[prog7](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog7.c)|Функция возведения числа в положительную степень|
+|Упражнение 8|[prog8](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog8.c)|Функция вычисления квадратного уравнения|
+|Упражнение 9|[prog9](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog9.c)|Функция нахождения наименьшего общего кратного|
+|Упражнение 10|[prog10](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog10.c)|Функция, проверяющая, является ли число простым|
+|Упражнение 11|[prog11](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog11.c)|Функция, возвращающая сумму элементов массива|
+|Упражнение 12|[prog12](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog12.c)|Функция транспонирования матрицы|
+|Упражнение 13|[prog13](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog13.c)|Модификация [prog12](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog12.c), чтобы функция принимала значение, указывающее на порядок сортировки (возрастание или убывание)|
+|Упражнение 14|[prog14a](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog14a.c)|Модификация [prog10](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog10.c), переделав аргументы в глобальные переменные|
+||[prog14b](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog14b.c)|Модификация [prog11](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog11.c), переделав аргументы в глобальные переменные|
+||[prog14c](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog14c.c)|Модификация [prog12](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog12.c), переделав аргументы в глобальные переменные|
+||[prog14d](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog14d.c)|Модификация [prog13](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog13.c), переделав аргументы в глобальные переменные|
+|Упражнение 15|[prog15](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog15.c)|Модификация [prog14](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog14.c), чтобы программа запрашивала повторно значение основания при неверном вводе|
+|Упражнение 16|[prog16](https://github.com/Orleond/CProgramming/blob/main/src/Exercises/Exercises8/prog16.c)|Модификация [prog14](https://github.com/Orleond/CProgramming/blob/main/src/Chapters/Chapter8/prog14.c), чтобы программа выполнялась, пока пользователь не введет `0`|
 
 &nbsp;
